@@ -42,4 +42,8 @@ public class CommonController {
 
         return Result.error(MessageConstant.UPLOAD_FAILED );
     }
+
+    public void test(){
+
+    }
 }
